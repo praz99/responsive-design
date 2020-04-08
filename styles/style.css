@@ -133,7 +133,7 @@ body a {
 
 .middle-wrapper .latest-news-vids .row .item img {
   width: 100%;
-  height: 130px;
+  height: 160px;
 }
 
 .nav-bar-md .nav-top .row-2 .nav-bar-sm .nav-top .logo img {
@@ -258,6 +258,7 @@ body a {
   color: #f42;
   font-size: 23px;
   margin-bottom: 15px;
+  font-weight: 800;
 }
 
 .main-headline .fa-share-alt,
